@@ -11,7 +11,7 @@
 <br><br>
 
 ## 💻과제
-![과제](https://www.coalla.co.kr/api/svg/김가네)
+![과제](https://www.coalla.co.kr/api/svg/김밥천국)
 <br><br><br>
 </div>
 
