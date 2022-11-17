@@ -2,8 +2,8 @@
 
 <div align=center>
 
-## 💻김가네
-우리는 함께 성장하며 보다 높은 곳을 바라보는 알고리즘 스터디 김가네입니다.<br>[\<connection/> 바로가기](https://k7c202.p.ssafy.io/)
+## 💻김밥천국
+우리는 함께 성장하며 보다 높은 곳을 바라보는 알고리즘 스터디 김밥천국입니다.<br>[\<connection/> 바로가기](https://k7c202.p.ssafy.io/)
 <br><br><br>
 ## 🔥 스터디 멤버<br>
 <table>
